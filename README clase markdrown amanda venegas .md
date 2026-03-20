@@ -21,11 +21,36 @@ sandria cuatro espacios }
 ###### titulo 6
 
 **holaa** conoci
-
 *como estas* poco
-
 ***texto***
 
 ~~texto option mas asterisco~~
 
-\#como estaas 
+\#como estaas (option mas cierre dde interrogracion
+
+como hacer listas 
+
+con viñetas 
+
+  * elemento 1  * elemento 2 * elemento 3
+
+numeros 
+
+    1. elemento a
+    2. elemento b
+    3. elemento c 
+[coma](https://github.com/AmandaVenegass)
+[![gato](https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600)
+![coma](https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600) 
+[![gatoo](https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600)](https://www.google.com/?hl=es)
+
+
+
+
+
+
+
+
+
+
+    
